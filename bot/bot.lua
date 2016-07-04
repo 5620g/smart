@@ -283,8 +283,9 @@ function create_config( )
     "updater",
     "whitelist",
     "msg_checks",
-    "pmLoad"
-
+    "pmLoad",
+    "supergroup",
+    "insuper",
     },
     sudo_users = {189308877,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
