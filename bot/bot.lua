@@ -285,7 +285,6 @@ function create_config( )
     "msg_checks",
     "pmLoad",
     "supergroup",
-    "insuper",
     },
     sudo_users = {189308877,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
